@@ -6,12 +6,16 @@ Backend Developer
 
 I have been a backend developer for 2 years, I started programming scripts for various video games. I am currently looking for a professional job opportunity from my stack, and why not, also delve into other technologies.
 
-*   🌍  I'm based in México
-*   ✉️  You can contact me at [amatehualav@gmail.com](mailto:amatehualav@gmail.com)
-*   🧠  I'm learning Java (Spring Boot)
-*   🤝  I'm open to collaborating on Projects in relation to my stack, also in open source projects.<a href="https://www.twitter.com/abrmv24" target="_blank" rel="noreferrer"><img
+*   🌍  I'm based in México
+*   ✉️  You can contact me at [amatehualav@gmail.com](mailto:amatehualav@gmail.com)
+*   🧠  I'm learning Java (Spring Boot)
+*   🤝  I'm open to collaborating on Projects in relation to my stack, also in open source projects.
+<a href="https://www.twitter.com/abrmv24" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/abrmv24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+                /></a>
+
+### Skills
+<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,17 +30,15 @@ I have been a backend developer for 2 years, I started programming scripts for v
                                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/AMV24#3470" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/AMV24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/abraham-matehuala-valenzuela-422790201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/abrmv24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/AMV24"><img src="https://github-readme-stats.vercel.app/api?username=AMV24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AMV24's GitHub stats" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/ABRMV24"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  <p align="left"> <a href="https://discord.com/users/AMV24#3470" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AMV24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abraham-matehuala-valenzuela-422790201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abrmv24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AMV24"><img src="https://github-readme-stats.vercel.app/api?username=AMV24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AMV24's GitHub stats" /></a>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/ABRMV24"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
