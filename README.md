@@ -8,7 +8,7 @@ I have been a backend developer for 2 years, I started programming scripts for v
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [amatehualav@gmail.com](mailto:amatehualav@gmail.com)
-*   🧠  I'm learning Java (Spring Boot)
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Projects in relation to my stack, also in open source projects.
 <a href="https://www.twitter.com/abrmv24" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/abrmv24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
